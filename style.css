@@ -9,7 +9,7 @@ body{
           height: 100vh;
           flex-direction: column;
           background-color: cornsilk;
-          background-image: url('https://source.unsplash.com/1600x900/?landscape');
+          background-image: url('https://source.unsplash.com/1600x900/?summer');
           background-size: cover;
           background-attachment: fixed;
 }
